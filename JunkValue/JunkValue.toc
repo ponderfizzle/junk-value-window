@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Junk Value
+## Notes: Shows the vendor value of poor-quality items in your bags.
+## Author: Local
+## Version: 1.0.0
+## SavedVariables: JunkValueDB
+
+JunkValue.lua
